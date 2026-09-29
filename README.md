@@ -1,12 +1,12 @@
 # Snake Evolution
 
-A Snake game developed in Python as the final project for an introductory Python programming course.
+A Snake game developed in Python as the final project for an online introductory Python programming course offered by Stanford University.
 
 The project applies fundamental programming concepts through a complete playable game built with Python's `turtle` module. The game includes movement controls, collision detection, scoring, levels, increasing difficulty, pause/resume behavior, and a graphical user interface.
 
 ## Project Background
 
-Snake Evolution was created as an academic final project while learning the fundamentals of Python.
+Snake Evolution was created as the final project for an online introductory Python programming course offered by Stanford University while learning the fundamentals of Python.
 
 The goal was to combine concepts covered in an introductory programming course into a larger program with multiple files and interacting classes. The project provided practice with program structure, object-oriented programming, conditionals, loops, functions, event handling, and game logic.
 
@@ -105,7 +105,7 @@ This project gave me practical experience applying introductory Python concepts 
 
 ## Academic Project
 
-This repository represents a final project from an introductory Python course and is preserved as part of my programming portfolio to show my progression and foundational Python experience.
+This repository represents my final project from an online introductory Python course offered by Stanford University. It is preserved as part of my programming portfolio to demonstrate my foundational Python experience and progression as a developer.
 
 ## Author
 
